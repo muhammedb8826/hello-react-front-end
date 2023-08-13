@@ -12,7 +12,7 @@ function Greeting() {
 
   return (
     <>
-      <p>{greeting.greeting}</p>
+      <h1>{greeting.greeting}</h1>
     </>
   );
 }
