@@ -6,13 +6,11 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -56,11 +54,6 @@
   </ul>
 </details>
 
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- `N/A`
 
 <!-- Features -->
 
@@ -107,7 +100,6 @@ To start the project execute this command
 ```bash
 npm start
 ```
-
 
 <p align="right"><a href="#readme-top">👆</a></p>
 
